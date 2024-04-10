@@ -34,6 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 [X] Common HTTP Features
 4 Enable IIS Management console
 - Internet Information Services -> Web Management Tools -> IIS Management Console
+  
 	[X] IIS Management Console
 5. Install PHP manager for IIS
 6. Install Rewrite Module
