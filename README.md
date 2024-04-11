@@ -107,8 +107,7 @@ Click “Install Now!”
 <img src="https://i.imgur.com/6jOCfyD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+I have created the Azure account. I'm creating the Azure VM which is using Windows 10 and has 4vCPU's.When you choose your VM, it is automatically going to give you a Vnet to go along with it.After this step you would go to the networking tab to check everything. The final step is to click review and create.</p>
 <br />
 
 <p>
