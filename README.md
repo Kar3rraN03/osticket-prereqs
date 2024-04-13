@@ -152,3 +152,21 @@ Install VC_redist.x86.exe from the installation files.
 </p>
 Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) on your Azure VM. During installation, choose the Typical Setup option and set the MySQL root password as ypur chosen password.
 <br />
+
+ </p>
+<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) on your Azure VM. During installation, choose the Typical Setup option and set the MySQL root password as ypur chosen password.
+<br />
+
+ </p>
+<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) on your Azure VM. During installation, choose the Typical Setup option and set the MySQL root password as ypur chosen password.
+<br />
+
+ </p>
+<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) on your Azure VM. During installation, choose the Typical Setup option and set the MySQL root password as ypur chosen password.
+<br />
