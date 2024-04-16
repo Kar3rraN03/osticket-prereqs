@@ -160,39 +160,32 @@ Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) on your Azure VM. Dur
 Open IIS as an Administrator, register PHP within IIS, and reload IIS by stopping and starting the server.<br />
 
  </p>
-<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gsW31BD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Download osTicket from the Installation Files folder, extract the contents, and copy the "upload" folder to C:\inetpub\wwwroot. Rename the "upload" folder to "osTicket".
 <br />
 
 </p>
-<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ssdxswU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> In IIS, navigate to the osTicket site, double-click PHP Manager, and enable the extensions php_imap.dll, php_intl.dll, and php_opcache.dll. Refresh the osTicket site in your browser.
 <br />
 
-</p>
-<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-Rename ost-sampleconfig.php to ost-config.php in C:\inetpub\wwwroot\osTicket\include, and assign permissions to ost-config.php: Disable inheritance, remove all permissions, and add permissions for Everyone with full control..
-<br />
 
 </p>
-<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9yBBy9r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ezwbjS0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />Rename ost-sampleconfig.php to ost-config.php in C:\inetpub\wwwroot\osTicket\include, and assign permissions to ost-config.php: Disable inheritance, remove all permissions, and add permissions for Everyone with full control..
 
 
 </p>
-<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J7mM0dQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qHgI1Z2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> Install HeidiSQL from the installation files, open it, create a new session with root/Password1 credentials, connect to the session, and create a database called "osTicket".
 <br />
 
 </p>
-<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IZ32BUG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> Continue setting up osTicket in the browser by entering the required information, such as the help desk name, default email, MySQL database details, etc. Click "Install Now!" to complete the setup.
 <br />
 
-</p>
-<img src="https://i.imgur.com/nWpM57L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p> Lastly, delete the C:\inetpub\wwwroot\osTicket\setup folder and set permissions to "Read" only for C:\inetpub\wwwroot\osTicket\include\ost-config.php..
-<br />
